@@ -1,0 +1,14 @@
+{
+  "name": "shell",
+  "version": "1.0.0",
+  "description": "Test development scripting with bash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackson Wearn jackson.wearn@careerbuilder.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2"
+  }
+}
